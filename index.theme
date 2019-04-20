@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Nocturne-GTK
+Comment=Dark GTK window theme inspired by Material Design.
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=Nocturne-GTK
+MetacityTheme=Nocturne-GTK
+IconTheme=DMZ-Black
+CursorTheme=DMZ-Black
+ButtonLayout=menu:maximize,minimize,close
